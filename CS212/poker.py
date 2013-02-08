@@ -1,5 +1,5 @@
 # Hey !! Gschool,j3,I dont think im a developer,but i just dont have any expertise in anything
-## and if i wrote something,you probably wouldnt see it, so ...
+## and if i wrote something,you probably wouldnt see it, so ...wtf
 
 
 import random
